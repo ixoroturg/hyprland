@@ -2,7 +2,7 @@ general {
   # Размер рамки окна
   border_size = 2
   # рамка у плавающего окна
-  no_border_on_floating = false
+  #no_border_on_floating = false
   # расстояние между окнами
   gaps_in = 3
   # расстояние между окном и экраном
