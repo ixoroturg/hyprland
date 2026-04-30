@@ -1,0 +1,43 @@
+
+  touchpad {
+    disable_while_typing = true
+    natural_scroll = false
+    scroll_factor = 1
+
+    middle_button_emulation = true
+    tap_button_map =lrm
+
+    clickfinger_behavior = false
+    tap-to-click = true
+    drag_lock = 2
+    tap-and-drag = true
+
+    flip_x = false
+    flip_y = false
+    drag_3fg = 2
+  }
+
+  touchdevice {
+    transform = -1
+    output = 
+    enabled = false
+  }
+
+  virtualkeyboard {
+    share_states = 1
+    release_pressed_on_close = false
+  }
+
+  tablet {
+    transform = -1
+    output = 
+    region_position = 0, 0
+    absolute_region_position = false
+    region_size = 0, 0
+    relative_input = false
+
+    left_handed = false
+    active_area_size = 0, 0
+    active_area_position = 0, 0
+  }
+
